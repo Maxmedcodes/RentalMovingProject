@@ -1,2 +1,2 @@
 # RentalMovingProject
-Created a Rental Moving compnaies webpage using Html,CSS and bootstrap
+Created a Rental Moving companies webpage using Html, CSS and bootstrap
